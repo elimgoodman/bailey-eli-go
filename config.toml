@@ -1,0 +1,4 @@
+baseURL = "http://www.baileyandeligo.com/"
+languageCode = "en-us"
+title = "Bailey and Eli Go"
+theme = "ananke"
